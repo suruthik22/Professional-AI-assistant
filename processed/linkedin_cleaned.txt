@@ -1,0 +1,350 @@
+
+
+========SECTION: CERTIFICATIONS==========
+
+Name:Data Visualisation: Empowering Business with Effective Insights
+Url:https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_SRXFiQFPpCNcrWAkW_1696778245947_completion_certificate.pdf
+Authority:Tata Group
+Started On:Oct 2023
+License Number:zKgCRkL2GyiCcjJ9P
+
+Name:Excel Basics for data analysis
+Url:https://www.coursera.org/account/accomplishments/certificate/MZUEQQHFQF22
+Authority:IBM
+Started On:Sep 2023
+
+Name:Basic statistics
+Url:https://www.coursera.org/account/accomplishments/verify/MHL96X9F4SFQ
+Authority:University of Amsterdam
+Started On:Oct 2022
+
+Name:Data Analytics Consulting Virtual Internship
+Url:https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_SRXFiQFPpCNcrWAkW_1697358883935_completion_certificate.pdf
+Authority:KPMG
+Started On:Oct 2023
+License Number:SRXFiQFPpCNcrWAkW
+
+Name:Data visualization with advanced excel
+Url:https://www.coursera.org/account/accomplishments/certificate/YK93P9DPCRXT
+Authority:PwC
+Started On:Oct 2023
+
+Name:Foundation Chartered Manager
+Url:https://www.managers.org.uk/digital-badge-verification/?bg=71392&eid=57391&user=UO3Vv8E_TOOHqyYXMg4HXt3IdmyX4SDN9z-0C9EMgRw
+Authority:Chartered Management Institute
+Started On:Dec 2024
+License Number:71392
+
+Name:Data Analyst Associate
+Url:https://www.datacamp.com/certificate/DAA0011523449489
+Authority:DataCamp
+Started On:May 2025
+License Number:DAA0011523449489
+
+
+========SECTION: EDUCATION==========
+
+School Name:Aston Business School
+Start Date:Sep 2024
+End Date:Sep 2025
+Degree Name:Master of Science - MS
+
+School Name:Indian Institute of Technology, Madras
+Start Date:Jul 2013
+End Date:Apr 2015
+Degree Name:Master of Technology - MTech
+
+School Name:College of Engineering, Guindy
+Start Date:Jun 2009
+End Date:Apr 2013
+Degree Name:Bachelor of Engineering - BE
+
+
+========SECTION: EMAIL ADDRESSES==========
+
+Email Address:suruthik22@gmail.com
+Confirmed:Yes
+Primary:Yes
+Updated On:9/19/21, 10:43 AM
+
+
+========SECTION: ENDORSEMENT_RECEIVED_INFO==========
+
+Endorsement Date:2025/02/06 20:38:14 UTC
+Skill Name:Business Intelligence (BI)
+Endorser First Name:Digby
+Endorser Last Name:Gordon-George
+Endorser Public Url:www.linkedin.com/in/digby-g-g
+Endorsement Status:ACCEPTED
+
+Endorsement Date:2025/02/06 20:38:12 UTC
+Skill Name:Predictive Analytics
+Endorser First Name:Digby
+Endorser Last Name:Gordon-George
+Endorser Public Url:www.linkedin.com/in/digby-g-g
+Endorsement Status:ACCEPTED
+
+Endorsement Date:2025/02/06 20:38:11 UTC
+Skill Name:primavera
+Endorser First Name:Digby
+Endorser Last Name:Gordon-George
+Endorser Public Url:www.linkedin.com/in/digby-g-g
+Endorsement Status:ACCEPTED
+
+
+========SECTION: PHONENUMBERS==========
+
+
+Number:7407320118.0
+
+
+========SECTION: POSITIONS==========
+
+Company Name:HOUSESIT MATCH LIMITED
+Title:Consulting Analyst
+Description:- Developed RFM-based customer segmentation models to identify retention opportunities and optimize marketing strategies.  - Built churn prediction models (Logistic Regression, Random Forest) improving retention by 3 percentage points.  - Designed Power BI dashboards for subscription trends, renewal forecasting, and executive MI reporting.  - Conducted pricing analytics to recommend optimized subscription tiers aligned with customer value perception.  - Enhanced data governance practices and resolved data quality issues to support predictive modeling accuracy.
+Location:High Wycombe, England, United Kingdom
+Started On:Apr 2025
+Finished On:Sep 2025
+
+Company Name:Airports Authority of India
+Title:Asst. Manager Civil (Project Analytics)
+Description:- Led a team of three to deliver data-driven project performance monitoring, defining key performance indicators (KPIs) and variance metrics to ensure timely delivery and alignment with business objectives.  - Designed and delivered Management Information (MI) dashboards using advanced Excel and visualization tools to track progress and provide actionable insights for senior stakeholders, improving transparency and decision-making.  - Implemented a Material Consumption Monitoring System that reduced procurement costs by 30% through enhanced usage tracking, forecasting, and anomaly detection.  - Created cost models, budget forecasts, and project data analyses to support financial planning and resource allocation for multiple high-value infrastructure projects.  - Developed and optimised complaint management reporting dashboards, reducing customer complaints by 50% and improving response times through process automation and trend analysis.  - Applied performance analytics to monitor project execution, identify delays, and recommend corrective actions, ensuring improved operational efficiency and compliance.
+Location:Chennai, Tamil Nadu, India
+Started On:Oct 2017
+Finished On:Jul 2024
+
+Company Name:Airports Authority of India
+Title:Asst Manager (Civil)/Officer-In-charge of Airport
+Description:- Led operational and strategic coordination for airport development by collaborating with government bodies, regulatory authorities, and senior management to facilitate land acquisition, compliance, and aerodrome licensing.  - Managed Management Information Systems (MIS) to monitor project progress, approvals, and compliance, enabling informed decision-making and timely execution of key activities.  - Processed to obtain statutory approvals, including Environmental Impact Assessments (EIA) and clearances from the Pollution Control Board, ensuring adherence to regulatory standards.  - Oversaw infrastructure performance and maintenance through data-driven planning, optimizing resource allocation and improving operational efficiency.  - Delivered analytical reports and dashboards for stakeholders, driving transparency and process efficiency during airport operationalization.
+Location:Vellore, Tamil Nadu, India
+Started On:Nov 2021
+Finished On:Nov 2022
+
+Company Name:Airports Authority of India
+Title:Jr. Executive (Civil)
+Description:- Delivered cost analysis, rate benchmarking, and financial modelling for capital works and annual maintenance projects valued between £100K and £1.4M, ensuring alignment with budget forecasts and regulatory compliance.  - Applied data-driven project planning and performance analytics to monitor progress for major infrastructure developments, including a £275K bus lounge expansion under operational constraints, collaborating with cross-functional teams (architecture, MEP, operations).  - Developed KPI dashboards and variance reports to track timelines, cost performance, and resource utilisation, improving transparency for senior management.  - Oversaw asset and maintenance analytics for airport infrastructure, including terminals, car parks, and residential facilities, optimising resource allocation for an annual operational spend of £900K.  - Established data governance frameworks for contract management, billing, and compliance monitoring, reducing processing time and improving audit readiness.  - Spearheaded process optimisation initiatives, including water efficiency measures (achieving a 30% reduction in consumption) and preventive maintenance strategies to enhance asset lifecycle management.
+Location:Chennai, Tamil Nadu, India
+Started On:Oct 2017
+Finished On:Oct 2021
+
+Company Name:Larsen & Toubro
+Title:Assistant Construction Manager (Project Planning and Controls)
+Description:- Led cost estimation and financial modelling for large-scale infrastructure projects valued up to £150M, incorporating market research, risk assessment, and competitive benchmarking to ensure optimal pricing strategies.  - Built budget forecasting models using advanced Excel to improve financial planning accuracy and variance analysis, enabling proactive cost management.  - Conducted performance analytics and schedule adherence reviews, identifying cost-time variances and recommending corrective actions to minimise overruns.  - Delivered Management Information (MI) reports and variance dashboards for senior leadership, enhancing visibility into project KPIs and risk indicators.  - Supported tender and bid evaluations by analysing pricing structures, cost breakdowns, and technical compliance, contributing to strategic vendor selection and contract awarding.  - Managed contractual and stakeholder communications, ensuring alignment with project objectives and compliance with terms and conditions.
+Location:Chennai, Tamil Nadu, India
+Started On:Aug 2015
+Finished On:May 2017
+
+
+========SECTION: PROFILE SUMMARY==========
+No data available
+
+
+========SECTION: PROFILE==========
+
+First Name:Suruthi
+Last Name:Kamalakkannan
+Address:Coventry
+Headline:Analyst driving business strategies | Machine Learning | Advanced Excel | SQL | Python | Power BI | Operational Efficiency | Process optimisation
+Summary:Analytical and business-focused professional transitioning into advanced analytics and data science, with experience in data-driven decision-making, process optimization, and project analytics. Currently pursuing an MSc in Business Analytics at Aston University, I bring expertise in predictive modeling, machine learning, and data visualization, underpinned by a strong engineering background.  Recent projects include customer segmentation and churn modeling, pricing analytics, and predictive risk assessment using tools like Python (pandas, scikit-learn), R, SQL, Power BI, Tableau, and Advanced Excel. Skilled in data wrangling, KPI dashboards, and business intelligence reporting, I excel at turning complex data into clear insights that drive growth and efficiency.  Passionate about data storytelling and strategic decision-making, I aim to bridge the gap between technical analytics and business strategy to deliver measurable impact.  Core Skills:    - Data Analysis & Visualization (Power BI, Tableau, Excel)    - Predictive Modeling & Machine Learning (Classification, Regression, Forecasting)    - SQL, Python, R | Data Wrangling & ETL    - Customer Segmentation | Churn Analysis | KPI Reporting    - Business Intelligence | Statistical Analysis | A/B Testing
+Industry:Business Consulting and Services
+Zip Code:CV14LU
+Geo Location:Coventry, England, United Kingdom
+
+
+========SECTION: PROJECTS==========
+
+Title:Road Safety Risk Prediction for Car Insurance (UK, 2025)
+Description:- Developed classification models (Logistic Regression, Random Forest) to predict accident severity using UK DOT data.  - Addressed class imbalance with SMOTE and optimized predictive performance for pricing strategy.
+
+Title:Used Car Price Prediction & Market Analysis (UK, 2024)
+Description:•	Developed pricing prediction models using regression techniques on Autotrader data •	Created interactive Power BI dashboards and conducted competitor benchmarking for strategic price positioning •	Delivered a pricing calculator tool for used car value estimation
+
+
+========SECTION: RICH_MEDIA==========
+
+Date/Time:You uploaded a feed photo on March 16, 2026 at 1:37 PM (GMT)
+Media Description:#End_to_End_Fully_Automated_NHS_Emergency_care_Analytics_Pipeline_that_updates_monthly to analyse A&E attendances and emergency admissions across NHS
+
+#What?
+This project automatically scrapes monthly datasets across years from NHS England at a set schedule, processes them using python, stores it in SQLite database in star_schema and powers a dynamic Power BI dashboard for performance monitoring and insights
+
+#How?
+Using 
+#Tech_stack - VSCode IDE | Python | SQL | SQLite | PowerBI | ETL pipeline
+#Demonstrating_skills - Web scraping | Automation | Data Modelling | Data wrangling & Visualisation | Time series & KPI Performance analytics | Dashboard | Business insights
+
+#Why?
+Provides automated scalable framework for continuous monitoring of NHS emergency care performance, can support - capacity planning, demand forecasting & performance benchmarking across organisations
+
+#Key_insights (naming few...)
+1. Approx. 26% of A&E attendances exceed 4hr waiting standard against threshold of 5%
+2. Seasonal Winter period spikes between August and January - Rec: dynamic capacity planning
+3.Type 1 ED despite handling 61% of total volume, drive most delays >4hrs of around 95% - Rec: Redirection to better performing Type 3 ED based on demand spikes 
+4. Performance disparity across regions and organisations- Categorisation of Critical pressure, Efficient, Underperforming and Stable organisations based on operational load vs performance scatter matrix - Rec: Benchmarking & transfer of best practices
+
+#Full_project_is_here
+[https://lnkd.in/eat7ygqA]
+
+? Working on a data problem?
+If you have messy datasets or a real world problem, I am happy to do the thinking, explore and collaborate. Of course I abide by Data Management Principles ? !! 
+
+#Data #PowerBI #Python #SQL #ETL #Automation
+
+Date/Time:You uploaded a feed photo on March 16, 2026 at 1:37 PM (GMT)
+Media Description:-
+Media Link:https://media.licdn.com/dms/image/v2/D4E22AQH2VYXLyekdEg/feedshare-shrink_160/B4EZz23UJuHYAo-/0/1773668221838?e=1775692800&v=beta&t=K3WKJCsHH7vqaZDRV1thyETNH493VJEOy7v9p2CSXos
+
+Date/Time:You uploaded a feed photo on March 16, 2026 at 1:37 PM (GMT)
+Media Description:-
+Media Link:https://media.licdn.com/dms/image/v2/D4E22AQGfHCX5yopiZQ/feedshare-shrink_1280/B4EZz23UHMJAAM-/0/1773668221673?e=1775692800&v=beta&t=p6gbdPAqLulcBIBE-nVMS9--ivJwbTwVxgXzaoiv8Ew
+
+Date/Time:You uploaded a feed photo on February 11, 2026 at 6:45 PM (GMT)
+Media Description:? Masters in Business Analytics ? Graduated with Distinction
+ #Class_of_2026
+Grateful for the growth journey and excited about next steps in the analytics world...!
+Media Link:https://media.licdn.com/dms/image/v2/D4E22AQFXM6if-8-I3A/feedshare-shrink_160/B4EZxOBY8IIgAw-/0/1770835513609?e=1775692800&v=beta&t=LDCm6NbH7PkU-y0H1dJDpyIIlanYvh240P5_ioebX8o
+
+Date/Time:You uploaded a feed photo on February 12, 2025 at 3:27 PM (GMT)
+Media Description:#Excited on earning the Foundation Chartered Manager certification from the Chartered Management Institute (CMI) !!! A significant step to the next level of my career and in becoming a strategic leader, I?m proud to align myself to drive positive change in the workplace.
+This is just the beginning of my leadership journey, and I?m committed to growing, learning, and contributing to making workplaces more effective, ethical, and impactful. ??
+
+#ProfessionalGrowth #Leadership #CMI #ManagementSkills #CareerDevelopment
+Media Link:https://media.licdn.com/dms/image/v2/D4E22AQEuC9EZZvG9-A/feedshare-shrink_800/B4EZT6xZADHgAs-/0/1739374039710?e=1775692800&v=beta&t=YmzTS1SPponRV2jFroLtXSaCxLGaC_mMWQ2nR5JTkSg
+
+Date/Time:You uploaded a profile background photo on November 13, 2024 at 1:09 PM (GMT)
+Media Description:-
+Media Link:https://media.licdn.com/dms/image/v2/D4E04AQF8M9MiGWDsvw/profile-originalbackgroundimage-shrink_396_1584/profile-originalbackgroundimage-shrink_396_1584/0/1731503353992?e=1775692800&v=beta&t=bQXpzk7qklFngQa11WqmqKb__JkbapGVr6G8XWKYd5g
+
+Date/Time:You uploaded a profile background photo on November 13, 2024 at 1:09 PM (GMT)
+Media Description:-
+Media Link:https://media.licdn.com/dms/image/v2/D4E16AQG_HBEqEn0B-Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1731503354188?e=1775692800&v=beta&t=yYaqvtuxDkFLtnnvL8z0Jd95AhPw-A4AWnjPka8PptI
+
+Date/Time:You uploaded a profile photo on November 13, 2024 at 1:00 PM (GMT)
+Media Description:-
+Media Link:https://media.licdn.com/dms/image/v2/D4E03AQF5pkQsPth0sQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731502817700?e=1775692800&v=beta&t=7PIcT5L81n78sWCWbErDPUV98MIQW-nTjCEsU8jBYKc
+
+Date/Time:You uploaded a profile photo on November 13, 2024 at 1:00 PM (GMT)
+Media Description:-
+Media Link:https://media.licdn.com/dms/image/v2/D4E04AQHOLP0pl1roCw/profile-originalphoto-shrink_900_1200/profile-originalphoto-shrink_900_1200/0/1731502817965?e=1775692800&v=beta&t=nJcX58oyLA_ENUPTuXUYwIFg0DoLP24QXRMuGpcGlgk
+
+
+========SECTION: SKILLS==========
+
+Name:Statistical Data Analysis
+
+Name:Google Analytics
+
+Name:Strategic Communications
+
+Name:Data Analytics
+
+Name:Machine Learning Algorithms
+
+Name:primavera
+
+Name:Predictive Analytics
+
+Name:Business Intelligence (BI)
+
+Name:Machine Learning
+
+Name:Stakeholder Management
+
+Name:Communication
+
+Name:Problem Solving
+
+Name:SQL
+
+Name:Dashboards
+
+Name:Excel Dashboards
+
+Name:PowerPivot
+
+Name:Scenario Analysis
+
+Name:Insight Generation
+
+Name:Data Quality
+
+Name:Presentation Skills
+
+Name:Statistics
+
+Name:confidence interval
+
+Name:Hypothesis Testing
+
+Name:R (Programming Language)
+
+Name:Data Science
+
+Name:Pivot Tables
+
+Name:Data Visualization
+
+Name:Business Analytics
+
+Name:Portfolio Management
+
+Name:Mathematics
+
+Name:Finance
+
+Name:VBA Programming
+
+Name:Working Experience
+
+Name:Analytical Skills
+
+Name:Cost Variance Analysis
+
+Name:Cost-Benefit Analysis
+
+Name:Budgeting
+
+Name:Tender Submissions
+
+Name:Tender Preparation
+
+Name:Bid Processes
+
+Name:Microsoft PowerPoint
+
+Name:Revit
+
+Name:Microsoft Excel
+
+Name:Python (Programming Language)
+
+Name:Tableau
+
+Name:Microsoft Power BI
+
+Name:Microsoft Office
+
+Name:AutoCAD
+
+Name:Pre-Construction
+
+Name:Data Analysis
+
+Name:Contract Management
+
+Name:Engineering
+
+Name:Teamwork
+
+Name:Project Management
+
+Name:Project Planning
+
+Name:Project Bidding
+
+Name:Construction Management
+
+Name:estimation and costing
+
+Name:Microsoft Project

@@ -1,6 +1,6 @@
 from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
-from chunking import chunk_documents
+from src.chunking import chunk_documents
 from dotenv import load_dotenv
 import os
 

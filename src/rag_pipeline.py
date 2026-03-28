@@ -114,7 +114,7 @@ Context:
 def ask_bot(query, top_k=10):
 
     if not os.path.exists("chroma_db"):
-        from vector_store import create_vector_store
+        from src.vector_store import create_vector_store
         create_vector_store()
 
     db, llm = load_pipeline()

@@ -1,5 +1,5 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from preprocess import combine_data
+from src.preprocess import combine_data
 
 def chunk_documents():
     documents=combine_data()

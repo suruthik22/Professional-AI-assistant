@@ -36,6 +36,9 @@ This project is an AI powered chatbot designed using an end-to-end Retrieva Augm
 The concept and approach can be used contract management, HR people information management, SOP understanding, Quality Management Systems, etc
 
 # Architecture 
+
+![Uploading image.png…]()
+
 ┌─────────────────────────────────────────────────────────────┐
 │                        DATA SOURCES                         │
 │     CV (PDF/TEXT)    LinkedIn (CSV)    GitHub (API)        │

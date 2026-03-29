@@ -37,7 +37,8 @@ The concept and approach can be used contract management, HR people information 
 
 # Architecture 
 
-![Uploading image.png…]()
+<img width="398" height="713" alt="image" src="https://github.com/user-attachments/assets/4fa8577c-e810-4806-a24b-24ae7fbeb911" />
+
 
 ┌─────────────────────────────────────────────────────────────┐
 │                        DATA SOURCES                         │

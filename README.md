@@ -1,4 +1,4 @@
-# Professional-AI-assistant
+# Suruthi's Professional AI assistant
 This is a Personal chatbot that can answer questions on my professional background, experience and projects. It stemmed from the idea that "What if recruiters could have a real conversation with my experience anytime, instantly? without the standard hardcode CV"
 
 # APP LINK
